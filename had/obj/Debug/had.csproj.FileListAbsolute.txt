@@ -1,0 +1,11 @@
+C:\Users\janko\source\repos\had\had\bin\Debug\had.exe.config
+C:\Users\janko\source\repos\had\had\bin\Debug\had.exe
+C:\Users\janko\source\repos\had\had\bin\Debug\had.pdb
+C:\Users\janko\source\repos\had\had\obj\Debug\had.csproj.AssemblyReference.cache
+C:\Users\janko\source\repos\had\had\obj\Debug\had.csproj.SuggestedBindingRedirects.cache
+C:\Users\janko\source\repos\had\had\obj\Debug\had.Properties.Resources.resources
+C:\Users\janko\source\repos\had\had\obj\Debug\had.csproj.GenerateResource.cache
+C:\Users\janko\source\repos\had\had\obj\Debug\had.csproj.CoreCompileInputs.cache
+C:\Users\janko\source\repos\had\had\obj\Debug\had.exe
+C:\Users\janko\source\repos\had\had\obj\Debug\had.pdb
+C:\Users\janko\source\repos\had\had\obj\Debug\had.Form1.resources
