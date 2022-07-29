@@ -94,11 +94,11 @@ namespace had
                     score++;
                     this.Text = "score: " + score.ToString();
                     this.Controls.Add(p);
-                    addOcas();
+                    addTail();
                 }
             }
         }
-        public void addOcas() 
+        public void addTail() 
         {
             snake.Add(new Panel());
             snake[snake.Count - 1].Location = new Point(snake[0].Location.X, snake[0].Location.Y);
